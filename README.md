@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiawasthi-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi"/> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js and Data structure & algorithms**
 
 - 💬 Ask me about **Web Development**
 
@@ -34,7 +34,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhangiAwasthi-2004&theme=dark" alt="achinmay05"/>
 </div>
 
-<h3 align="left">LeetCode Profile:</h3>
-<a href="https://leetcode.com/ShubhangiiAwasthi" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/ShubhangiiAwasthi" alt="LeetcodeStats">
-</a>
+
