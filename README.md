@@ -7,7 +7,7 @@
          height="45"
          width="45"/> I am Shubhangi </h1>
          
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiawasthi-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi"/> </p>
