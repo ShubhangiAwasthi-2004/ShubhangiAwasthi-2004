@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 reach me at: **ShubhangiiAwasthi2014@gmail.com**
+- 📫 reach me at: **shubhangiiAwasthi2014@gmail.com**
 
 - 📄 [My Resume](https://drive.google.com/file/d/1AM8Ia5Zn1PmfwZIUlu3g1Iomulo7hd37/view?usp=drive_link)
 
