@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi <img src="<a href="https://iconscout.com/lottie-animations/female" class="text-underline font-size-sm" target="_blank">Female Developer working on web development</a> by <a href="https://iconscout.com/contributors/ja-studio" class="text-underline font-size-sm" target="_blank">Ja_studio</a>" 
+<h1 align="center">Hi <img src="<a href = "" 
          alt="Waving hand animated gif"
          height="45"
          width="45"/> I am Shubhangi </h1>
