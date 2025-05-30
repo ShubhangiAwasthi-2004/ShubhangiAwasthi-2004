@@ -8,9 +8,12 @@
          width="45"/> I'm Shubhangi </h1>
          
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVpdDhubDBjZ20yZ204NWRrbXBwd3djcjdqbXRxZnMxbXB5dGp4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiawasthi-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhi"/> </p>
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiawasthi-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi"/> </p>
 
 - 🌱 I’m currently learning **Next.js and Data structure & algorithms**
 
@@ -34,4 +37,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhangiAwasthi-2004&theme=dark" alt="ShubhangiAwasthi-2004"/>
 </div>
 
-
+<!https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVpdDhubDBjZ20yZ204NWRrbXBwd3djcjdqbXRxZnMxbXB5dGp4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif
+"https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"!/>
