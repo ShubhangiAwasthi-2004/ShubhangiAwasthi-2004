@@ -37,5 +37,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhangiAwasthi-2004&theme=dark" alt="ShubhangiAwasthi-2004"/>
 </div>
 
-<!https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVpdDhubDBjZ20yZ204NWRrbXBwd3djcjdqbXRxZnMxbXB5dGp4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif
-"https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"!/>
