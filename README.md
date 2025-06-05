@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Computer Networking and Data structure & algorithms**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **C++ and C**
 
 - 📫 reach me at: **shubhangiiAwasthi2014@gmail.com**
 
