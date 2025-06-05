@@ -15,7 +15,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhangiawasthi-2004&label=Profile%20views&color=0e75b6&style=flat" alt="shubhangi"/> </p>
 
-- 🌱 I’m currently learning **Next.js and Data structure & algorithms**
+- 🌱 I’m currently learning **Computer Networking and Data structure & algorithms**
 
 - 💬 Ask me about **Web Development**
 
