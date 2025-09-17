@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **C++ and C**
 
-- 📫 reach me at: **shubhangiiAwasthi2014@gmail.com**
+- 📫 reach me at: **shubhangiiawasthi2014@gmail.com**
 
 
 
