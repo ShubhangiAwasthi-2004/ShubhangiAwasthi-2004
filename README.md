@@ -21,7 +21,7 @@
 
 - 📫 reach me at: **shubhangiiAwasthi2014@gmail.com**
 
-- 📄 [My Resume](https://drive.google.com/file/d/1AM8Ia5Zn1PmfwZIUlu3g1Iomulo7hd37/view?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
